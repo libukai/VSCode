@@ -11,7 +11,9 @@ VSCode的核心优势在于拥有数量庞大的扩展库，任何人都能按�
 ### 二、Markdown
 
 - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)：Markdown功能加强
+- [Docs Markdown](https://github.com/Microsoft/vscode-docs-authoring)：Markdown快捷方式
 - [Image Preview](https://github.com/kisstkondoros/gutter-preview.git)：图片缩略图预览
+- [Gitbook Shelf](https://github.com/ensky/vscode-gitbook-shelf)：侧边栏Gitbook目录
 
 ### 三、RegEx
 

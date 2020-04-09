@@ -8,7 +8,7 @@
 + 通过自定义的CSS文件，可以决定导出文档的每一个细节样式。
 + 通过引用JS文件，可以用文本描述语法绘制各种标准化的流程样式图形。
 
-![](http://assets.libukai.top/img/正则图形.jpg)
+![](http://assets.libukai.top/img/正则图形.png)
 
 更让人赞许的是，这个扩展还有非常完备的[中文使用说明](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)，方便有深入研究需求的朋友进一步自行探索。
 
